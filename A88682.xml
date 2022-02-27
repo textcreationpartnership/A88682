@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached on January the 1st. 1680[/]1 In the new church at Port-Royal in Jamaica, being the first time of performing divine service there. Published at the request of Sir Henry Morgan, and other gentlemen, by whose liberal contribution the said church was erected. By J. L. LL. B.</title>
+            <author>J. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88682</idno>
+            <idno type="STC">Wing L38A</idno>
+            <idno type="STC">ESTC R227275</idno>
+            <idno type="EEBO-CITATION">99896363</idno>
+            <idno type="PROQUEST">99896363</idno>
+            <idno type="VID">154238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2407:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached on January the 1st. 1680[/]1 In the new church at Port-Royal in Jamaica, being the first time of performing divine service there. Published at the request of Sir Henry Morgan, and other gentlemen, by whose liberal contribution the said church was erected. By J. L. LL. B.</title>
+                  <author>J. L.</author>
+               </titleStmt>
+               <extent>[6], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nathaniel Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154238:1" rendition="simple:additions"/>
+            <pb facs="tcp:154238:1"/>
+            <pb facs="tcp:154238:2"/>
+            <pb facs="tcp:154238:2"/>
+            <pb facs="tcp:154238:3"/>
+            <pb facs="tcp:154238:3"/>
+            <p>A SERMON Preached on <hi>January</hi> the 1ſt. 1680/1. In the NEW CHURCH at Port-Royal IN JAMAICA, Being the firſt time of performing <hi>Divine Service</hi> there.</p>
+            <p>Publiſhed at the Requeſt of Sir <hi>Henry Morgan,</hi> and other Gentlemen, by whoſe Liberal Con<g ref="char:EOLhyphen"/>tribution the ſaid Church was Erected.</p>
+            <p>By <hi>J. L.</hi> LL. B.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Nathaniel Thompſon.</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154238:4"/>
+            <pb facs="tcp:154238:4"/>
+            <head>To the Right Honourable Sir <hi>HENRY MORGAN,</hi> Kt. Lieutenant Governor and Com<g ref="char:EOLhyphen"/>mander in Chief of this his Ma<g ref="char:EOLhyphen"/>jeſty of <hi>Great Britain</hi>'s Iſland of JAMAICA, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Honour,</salute>
+            </opener>
+            <p>MAny men (I doubt not) may be ſo pitiful as to bluſh for my Impudence, when I ſhall ap<g ref="char:EOLhyphen"/>pear in <hi>England</hi> like a wild <hi>Indian;</hi> others per<g ref="char:EOLhyphen"/>haps may hope I have ſo much modeſty left as to frame excuſes for my ſelf, either by laying the blame on the Importunity of Friends, (the uſual Refuge of Scriblers) which has expoſed my weakneſs to publick view; or on the want of a Wardrobe, (a Library) which ſhould have furniſh'd me with a decent Dreſs: Though theſe pretences might be uſeful to me, yet ſince <hi>Truth</hi> is not uncomely, when it appears in the
+<pb facs="tcp:154238:5"/>ſame manner, I ſhall not ſeek Protection for my Cre<g ref="char:EOLhyphen"/>dit from ſuch Fig-leaves, whilſt your Honour gives me better Security: Under this aſſurance I am bold to vindicate my Obedience to your Honours pleaſure, (and the joynt deſires of other Gentlemen my Candid Auditors) which with me has the force of an Invio<g ref="char:EOLhyphen"/>lable Law: Nay I ſhould have been guilty of great Injuſtice, in omitting any opportunity of publiſhing to the World, how great a Patron of the Orthodox Religion we have in <hi>Jamaica;</hi> upon which account, I may hope for a more favourable Cenſure of my own weakneſs. You need not <hi>(Sir)</hi> fear my running into a Flattering Panegyrick, <hi>Tantum abſit à ſpecie, quantum abeſt à neceſſitate;</hi> but Gratitude ob<g ref="char:EOLhyphen"/>liges me to acquaint my Country-men how I bleſs Providence, which by the Noble, Learned, and Good Lord Biſhop of <hi>London,</hi> introduced me into the Free Service of Thoſe who in many reſpects, are alike qualified; To him I owe the uſe of the old Stratagem, to look for the Riſing Sun in the Weſt, where with pleaſure of mind (which is an Empire) I view the Rays of Majeſty by Reflection; in due Execution of Laws; in Decency and Order, in Ec<g ref="char:EOLhyphen"/>cleſiaſtical, Civil, and Military affairs; Encourage<g ref="char:EOLhyphen"/>ment of Trade; mutual love amongſt Loyal Subjects, and all that conſtitutes a Happy Government: ſo that no one, who is not an Enemy to himſelf, can
+<pb facs="tcp:154238:5"/>think a warm Climate to be out of God's bleſſing. This <hi>Harmony</hi> has made you deviſe Liberal things, being more powerful and attractive, than <hi>Amphion</hi>'s Harp in raiſing theſe Noble Walls, whilſt your Honours vigilant Eye (like <hi>Boaz</hi> over the Reapers) has made the Workmens Labour a pleaſure.</p>
+            <p>The enſuing Diſcourſe upon our entrance into God's Service herein, I hope cannot be miſconſtrued, as a doubting, or anticipating of my Lord of <hi>Lon<g ref="char:EOLhyphen"/>don</hi>'s kindneſs, which he has now conferred on the Place, by granting a Publick and Solemn Dedica<g ref="char:EOLhyphen"/>tion, as the firſt Bleſſing and Honour of that na<g ref="char:EOLhyphen"/>ture, which the <hi>Engliſh</hi> ever enjoyed in theſe parts. And that we may never want the Influence of his Favour, at ſo great a diſtance, I aſſure my ſelf your Honour will be always ready to eſtabliſh Eccleſiaſti<g ref="char:EOLhyphen"/>cal Diſcipline, ſo far as may be, for the ſuppreſſing of Vice, which is a truer Object of Fortitude, then ſome of our Neighbours who flee when no man pur<g ref="char:EOLhyphen"/>ſueth. <hi>Sir,</hi> I know Righteouſneſs creates the bold<g ref="char:EOLhyphen"/>neſs of a Lion, and will make you both an Ornament and Safeguard to this Place, in oppoſing the Rude<g ref="char:EOLhyphen"/>neſs of ſuch as dare bark, or hiſs, at any thing which is Divine: Your Authority will drive <hi>Antiochus</hi>'s Beaſts not only from the Sanctuary, but the very Doors of it; and your Sword in ſome ſort repreſent
+<pb facs="tcp:154238:6"/>the Flaming Cherubs, in guarding, but not keeping men from, Religion, which is the Tree of Life: In the Fruits whereof (as they contain preſent and fu<g ref="char:EOLhyphen"/>ture bleſſings) that your Honour and Family, may have an ample ſhare, is the hearty Prayer of,</p>
+            <closer>
+               <signed>Sir, Your moſt Obedient, and Dutiful Servant, <hi>J. L.</hi>
+               </signed>
+               <dateline>
+                  <hi>Port-Royal</hi> in <hi>Jamaica,</hi> 
+                  <date>Jan. 28.1680/1.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:154238:6"/>
+            <epigraph>
+               <q>
+                  <bibl>ACT. 7.33.</bibl> Put off thy ſhooes from thy feet, for the place where thou ſtandeſt is Holy Ground.</q>
+            </epigraph>
+            <p>THough we may truly ſay, with the <hi>Pſalmiſt,</hi> we bring our years to an end as a Tale that is told; all the Scenes of our life being full of <hi>Vanity,</hi> and as ridicu<g ref="char:EOLhyphen"/>lous as that Actor in <hi>Smyrna,</hi> whoſe hand con<g ref="char:EOLhyphen"/>tradicted his tongue calling upon Heaven; though our Talk hath been ſometimes of things above, whilſt our Actions have been degenerous and rivetted to the things below, and our beſt performances ſullied with ſome ſpots of Imperfection: Yet I hope we ſhall not always retain ſo much of the Serpent, as to be Emblems of the year, ſtill turning into our ſelves, and the ſame method of living; but be renewed in the Spirit of our minds, re<g ref="char:EOLhyphen"/>deeming the time by caſting off, not only the Old Skin, but the Old Man, and all Clogs which may hinder us from running the Race ſet before us, even the ſmooth way of Righte<g ref="char:EOLhyphen"/>ouſneſs. So may we take off the Imputation
+<pb n="2" facs="tcp:154238:7"/>of thoſe, who deride our Devotions, and pub<g ref="char:EOLhyphen"/>lick Conventions, as if they were ſtifled with Superſtition, in the obſervance of Time or Place, in reference to God or Goodneſs, with<g ref="char:EOLhyphen"/>out a Divine Precept. To which end let this time of our Saviour's being made ſubject to the Law by Circumciſion mind us, That he deſigned thereby to ſpiritualize it, and not make us Libertines, but that our Actions ſhould be on Nobler Principles, that we might through his Grace become ſincerely, though not perfectly Righteous; ſo may all our Gifts become acceptable, though not me<g ref="char:EOLhyphen"/>ritorious: He whoſe the Earth is, and the ful<g ref="char:EOLhyphen"/>neſs thereof, will allow Man the honour of be<g ref="char:EOLhyphen"/>ing in ſome ſort a Benefactor to him, and will repay him with ſufficient Intereſt: By taking heed to our feet when we enter this <hi>Place,</hi> we may beſpeak his peculiar Preſence, and Benediction: This days aſſembling to<g ref="char:EOLhyphen"/>gether may be aſſuredly Auſpicious, if our Spiritual <hi>Renovalia</hi> commence from the ſame time; If we harbour nothing unworthy of Chriſtianity in our breaſts, nor make the Temples of the Holy Ghoſt, Sanctuaries for Vice or Uncleaneſs, we may find the ſame fa<g ref="char:EOLhyphen"/>vour from God in a ſtanding Temple, as our
+<pb n="3" facs="tcp:154238:7"/>Fathers did in the Tabernacle of Teſtimony, where God communicates his Will, and makes known his Pleaſure, where by his own appointment his Name is recorded, and com<g ref="char:EOLhyphen"/>memorated by his Servants, his acts of Mercy praiſed and magnified, where he evidences his preſence, to accept the Offerings and bleſs the Perſons of thoſe who reſort thither.</p>
+            <p>Now to juſtifie not only the lawfulneſs, but commendableneſs of Erecting ſuch <hi>Places</hi> of Devotion, and to ſhew what <hi>Reverence</hi> is due therein, I have choſen God's own words to <hi>Moſes,</hi> as they are made a part of St. <hi>Stephen</hi>'s Hiſtorical Argument to prove the approach<g ref="char:EOLhyphen"/>ing deſtruction of the <hi>Temple,</hi> by ſhewing the unworthineſs and great provocation of the <hi>Jews,</hi> who therefore had no reaſon to expect a continuance of his Favour: And this I have the rather pitch'd on, becauſe of ſome part of his ſpeech, <hi>v.</hi> 48, 49, 50. ſo groſly miſtaken and urged by thoſe Zealots who would have all our Churches thought Superſtitious, or at leaſt all expences about them Superfluous, Coſt and Magnificence not becoming the ſim<g ref="char:EOLhyphen"/>plicity of the Goſpel: As if a Manger were ſtill as fit for a Glorified <hi>Saviour,</hi> as a Throne, and they becoming like the Beaſts that periſh,
+<pb n="4" facs="tcp:154238:8"/>the only fit Company for him: The reaſon perhaps why ſo many of God's Houſes were turned into real Stables, and Dens of Thieves: But I hope none of their Survivors are come hither alſo; nor can I fear St. <hi>Stephen</hi>'s Fate, to be gnaſhed on with the Teeth from the ſe<g ref="char:EOLhyphen"/>verity of that truth, which now is ſeaſonable to be ſpoken.</p>
+            <p>And ſo with Reverence I come to the words of God, which are a Command of ſhewing a reſpect to the <hi>Place</hi> of his Preſence, manifeſted by a glorious appearance in the <hi>Buſh,</hi> and is therefore called <hi>Holy.</hi> From which without running into many particulars, <hi>Three Obſervables</hi> ariſe:
+<list>
+                  <item>1. A diſtinction of <hi>Places.</hi>
+                  </item>
+                  <item>2. The reaſon of the diſtinction, <hi>(viz.)</hi> God's peculiar Reſidence, and diſpenſation of his Grace.</item>
+                  <item>3. The Inference thereupon; a ſuitable Reſpect and Reverence.</item>
+               </list>
+            </p>
+            <p n="1">1. We muſt learn to diſtinguiſh between Sacred and Prophane <hi>Places,</hi> the omiſſion and neglect whereof made <hi>God</hi> expreſs his anger by the mouth of <hi>Ezekiel,</hi> chap. 22. verſ. 26. Though he be not a local <hi>God,</hi> of the Hills or of the Valleys, his Preſence not to be circum<g ref="char:EOLhyphen"/>ſcrib'd,
+<pb n="5" facs="tcp:154238:8"/>yet his condeſcention is ſo great to the Sons of Men, that he delights to be in the midſt of them in publick <hi>Places</hi> of Audience, when they preſent their Addreſſes to him: <hi>Adam</hi> in his ſhort time of Innocence, knew where to meet him with a pleaſing Aſpect, when he had no occaſion to palliate his Crime, or hide himſelf; his Sons knew where to offer their Sacrifice. From whence ſhould we trace Hiſtory to the Pureſt times of Chriſtia<g ref="char:EOLhyphen"/>nity, it would in one continued Series ſtrong<g ref="char:EOLhyphen"/>ly juſtifie the ſame Practice, and confirm our preſent Aſſertion: This Obſervable only we will not omit, <hi>(viz.)</hi> That when the Paſſion was repreſented to <hi>Abraham</hi> on Mount <hi>Moriah,</hi> the Conception to <hi>Moſes</hi> on Mount <hi>Sinai,</hi> the Interceſſion of Chriſt to <hi>David</hi> in the Threſh<g ref="char:EOLhyphen"/>ing-floor of <hi>Araunah,</hi> two of which places were appointed for the <hi>Temple,</hi> and Tabernacle, there was enjoyned a diſtinction of Perſons in reſpect of the <hi>Places,</hi> proportionable in ſome ſort, to that difference between Perſons and Places, in the Temple and Tabernacle: <hi>Abraham</hi> and his Son may go yonder, but the People muſt ſtay here; <hi>Moſes</hi> and <hi>Joſhua</hi> muſt pull off their ſhoes, and ſhew Reverence, till they were impower'd to execute the <hi>Prieſt<g ref="char:EOLhyphen"/>hood;
+<pb n="6" facs="tcp:154238:9"/>David</hi>'s Altar was erected only near the place of the Angels appearance: The dire<g ref="char:EOLhyphen"/>ction in which behalf was univerſal, Perſons, Garments, Sacrifices, Ornaments had their diſtinctions; the Tabernacle was Holier then the Camp, and the ſame Order lived in the Temple. <hi>Solomon</hi> and <hi>Ezra</hi> had patterns to be directed by, and how zealous the <hi>Jews</hi> were in the obſervance of them, is ſufficiently manifeſted by their Reſentment of <hi>Pompey</hi>'s inſolent Invaſion of the <hi>Sanctuary,</hi> which he termed, <hi>Grande Impiae Gentis arcanum,</hi> though to his own ruine, as their Story ſuppoſes. <hi>Herod</hi> (though guided only by Ambition) would not expoſe the View of it to unquali<g ref="char:EOLhyphen"/>fied Perſons, as may appear by the ſevere ſentence inſcribed over the Gates, againſt all Rude Intruders: And ſhall there now leſs Honour be given to God, leſs Holineſs in the Place of his Worſhip, ſince his only Son was really Sacrificed, then when he was offered only in Shadow? when our Saviour in a Holy Rage (after his Baptiſm, and before his Paſ<g ref="char:EOLhyphen"/>ſion) expelled the Merchants and Uſurers from the place where the Chriſtian Church was beſt repreſented, where Inſtructions and Devotions were to be performed after his Ex<g ref="char:EOLhyphen"/>piration,
+<pb n="7" facs="tcp:154238:9"/>he ſhewed hereby that this <hi>diſtinction of Places</hi> ſhould be of equal extent, with the benefit of his Baptiſm and Paſſion; ſhould continue as long as the neceſſity of Prayer and Peaching the Goſpel, licenſing all Fa<g ref="char:EOLhyphen"/>bricks erected for the ſame uſe by his own, and his Apoſtles examples, who diſputed, in<g ref="char:EOLhyphen"/>ſtructed, and prayed in ſmaller Synagogues, which ſucceeding Ages have warrantably imitated.</p>
+            <p>How hot the Zeal of Chriſtians was in this affair, appeared by their erecting Oratories, as ſoon as they durſt creep out of their Caves and Dens: what was the care and coſt of the good and great <hi>Conſtantine,</hi> few are unac<g ref="char:EOLhyphen"/>quainted with: <hi>Juſtinian</hi>'s pious Emulation, one's equalling the Letters of the <hi>Roman</hi> Al<g ref="char:EOLhyphen"/>phabet, another the days of the year with the number of their own Churches, a ſmall part of Hiſtory will inform us. And though what was ſo well intended, was ſoon corrupted, and many Fopperies introduced, yet the abuſe muſt not wholly fruſtrate the end: The An<g ref="char:EOLhyphen"/>cients we know condemned the opinion of Merit, feigned Miracles, ſuperſtition of Re<g ref="char:EOLhyphen"/>liques and Saints; yet they applauded the Eſſential part of the work, and the Founders,
+<pb n="8" facs="tcp:154238:10"/>acknowledging our Saviour's approbation of the <hi>Centurion</hi>'s character, to be ſufficient Au<g ref="char:EOLhyphen"/>thority for their imitation of him: However ſince decency and order never want diſtur<g ref="char:EOLhyphen"/>bers, and there are ſuch as look on the erect<g ref="char:EOLhyphen"/>ing convenient <hi>Places</hi> for God's Service, as Su<g ref="char:EOLhyphen"/>perſtitious, (though he expreſly appropriates a Houſe of Prayer to himſelf;) it may not be improper to examine the ſtrength of their moſt cogent Arguments.</p>
+            <p>As to the practice of the <hi>Patriarchs</hi> which they urge, what parity is there between their caſe and ours; were not their Habitations movable, their Congregations their own Fa<g ref="char:EOLhyphen"/>milies, ſo that fixed places for Divine Worſhip was not ſuitable to their condition; yet con<g ref="char:EOLhyphen"/>veniences they had, and in ſuch caſe <hi>Daniel</hi>'s Den, or <hi>Jonas</hi> his floating Iſland ſupply the place of a Church, ſo Devotion do but conſe<g ref="char:EOLhyphen"/>crate it.</p>
+            <p>What is fetched from <hi>Iſaiah,</hi> where God ſays Heaven is his Throne, and Earth his Footſtool, asking where is the Houſe they would attempt to build him; they fortifie with the 48<hi rend="sup">th</hi> verſe of this Chapter, <hi>God dwel<g ref="char:EOLhyphen"/>leth not in Temples made with hands;</hi> which Texts ſpeak this ſence only, That God who is In<g ref="char:EOLhyphen"/>comprehenſible,
+<pb n="9" facs="tcp:154238:10"/>will not be thought to be im<g ref="char:EOLhyphen"/>priſoned like the Heathen Idols, or chained like the <hi>Tyrians</hi> Titular Deity, but he diſowns not ſuch a place where a Congregation might joyfully meet together to the honour of his Name. Thus St. <hi>Stephen</hi> tells the <hi>Jews,</hi> that God who had the whole World for his Pa<g ref="char:EOLhyphen"/>lace, was not to be confined to their Temple, ſo as to preſerve it from ever being deſtroyed, ſince they were grown Rebellious, and had been guilty of ſhedding the bloud of the Lord of Life.</p>
+            <p>From our Saviour's diſcourſe with the Wo<g ref="char:EOLhyphen"/>man of <hi>Samaria,</hi> and the Apoſtles Injunction that men <hi>pray every where lifting up pure hands, without wrath and doubting,</hi> I can infer only this; God's Worſhip under the Goſpel, ſhall not be confined to the Mountain, or Temple at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem;</hi> which Chriſtian Liberty I think would have been improperly ſo called, did it forbid erecting other places convenient for that De<g ref="char:EOLhyphen"/>votion which Chriſtianity requires.</p>
+            <p>Though Types ceaſe, yet the Temple was not meerly Myſtical in the uſe of it, but had a natural convenience for the multitude of thoſe that kept Holyday; why therefore may not our Churches multiply, where the Goſpel is
+<pb n="10" facs="tcp:154238:11"/>ſpread, as well as the Lords-day ſucceed the Sabbath, Time and Place convenient being always neceſſary for Sacred Actions.</p>
+            <p>It is therefore your Glory who have been as forward to build God a Houſe, as the warrant is uncontroulable: and if the <hi>Shunamites</hi> kind<g ref="char:EOLhyphen"/>neſs to a Prophet, in building and furniſhing a Chamber, be kindly accepted of God, what Favourites ſhall they be, who (like the <hi>man after his own heart</hi>) delight not in their own Houſes, till God's be finiſhed. <hi>David</hi> indeed was not permitted to build the Temple, not barely (I ſuppoſe) as a Warriour, but becauſe he was a man of bloud in the matter of <hi>Uriah;</hi> for the <hi>Centurion</hi> was a Souldier too: And I hope Eccleſiaſtical and Military Diſcipline duly obſerved, will be mutual Supports to each other, uniting Strength and the beauty of Holineſs. To <hi>David</hi>'s Harp therefore let our Souls be tuned; let us rejoyce with him who was glad, when they ſaid, <hi>We will go into the Houſe of the Lord,</hi> which he appropriates to himſelf and makes Holy, by a peculiar ma<g ref="char:EOLhyphen"/>king of his reſidence, and affording his Graces there. — The ſecond thing to be ſpoken to;</p>
+            <p n="2">2. There is ſuppoſed in every ordinary Conſecration, whether of Perſons, Things, or
+<pb n="11" facs="tcp:154238:11"/>Places, a delivery made by Man, taking poſ<g ref="char:EOLhyphen"/>ſeſſion by God, who does it not by Proxy, but is immediately and perſonally preſent: Where he aſſumes or reſerves any thing, or Place to himſelf, his preſence conſtitutes and makes an extraordinary Conſecration, which preſence follows in the Ordinary; thus when <hi>Jacob</hi> ſaw that intercourſe between Heaven and Earth, he concluded that the Lord was in that Place, and the Heavenly Meſſengers rea<g ref="char:EOLhyphen"/>dy to convey the Petitions of humble Peni<g ref="char:EOLhyphen"/>tents into his Preſence-Chamber. Whereupon <hi>Luz</hi> changes its name and property, that in <hi>Bethel</hi> (<hi>i. e.</hi> the Houſe of God) his Vows may be performed. Thus the Divine appearance to <hi>David, Moſes,</hi> and <hi>Joſhua,</hi> made the places Holy by his own appointment: From whence I preſume may ariſe St. <hi>Peter</hi>'s forwardneſs in building three Tabernacles at the Transfi<g ref="char:EOLhyphen"/>guration: The imitation of whoſe Zeal in the other ordinary way, will not (I hope) be look'd on by Poſterity as a Frantick act of yours, as if you wiſt not what you did.</p>
+            <p>In the forementioned Examples God's pre<g ref="char:EOLhyphen"/>ceding Preſence made <hi>Places</hi> Holy; in the or<g ref="char:EOLhyphen"/>dinary Conſecration which now concerns us, God makes them ſo, by his gracious accep<g ref="char:EOLhyphen"/>tance,
+<pb n="12" facs="tcp:154238:12"/>and a more immediate communication of himſelf therein. From hence <hi>Cain</hi> called the place of his Father and Families Devotion, the <hi>face of God;</hi> and <hi>Abel</hi> had a ſignal Teſtimony of his Preſence, by firing of his Sacrifice.</p>
+            <p>Thus God took poſſeſſion of the Taberna<g ref="char:EOLhyphen"/>cle of the Temple, when dedicated to his Ser<g ref="char:EOLhyphen"/>vice; he was with <hi>Abraham</hi> and <hi>Jacob</hi> by pro<g ref="char:EOLhyphen"/>miſe, with <hi>Moſes</hi> and <hi>Joſhua</hi> by aſſiſtance. The Lord of <hi>Iſrael</hi> can accompany his Servants in all Places; but they are moſt ſure to find him where he has put his Glory, and in a more eſpecial manner placed his Name, which in the Law is <hi>Domus Manſionalis Omnipotentis Dei.</hi> Our Saviour honoured the Anniverſary of the third Dedication, under the <hi>Maccabees,</hi> with his Preſence; which Solemnity was after<g ref="char:EOLhyphen"/>wards uſed by <hi>Eugenius</hi> firſt, who was followed by other Chriſtians, as may appear by Eccle<g ref="char:EOLhyphen"/>ſiaſtical Hiſtory, many approving of the Cu<g ref="char:EOLhyphen"/>ſtom. From whence the Canoniſts conclude it to be a neceſſary Church-Conſtitution, which none inferiour to a Biſhop could per<g ref="char:EOLhyphen"/>form, according to the Law definition, <hi>Res ſacrae ſunt quae per Pontifices ritè conſecratae ſunt;</hi> though ſome would give the power of Con<g ref="char:EOLhyphen"/>ſecration to Princes and Governours, or at
+<pb n="13" facs="tcp:154238:12"/>leaſt of deputing others to do the ſame. Thus they ſay <hi>Solomon</hi> bore a great part in the Con<g ref="char:EOLhyphen"/>ſecration of the Temple; and <hi>Conſtantine</hi> him<g ref="char:EOLhyphen"/>ſelf called that great number of Clergy to his Church at <hi>Jeruſalem;</hi> nay an <hi>Helvetian</hi> Pro<g ref="char:EOLhyphen"/>feſſor ſays, <hi>Antiquitus haec Authoritas ſemper fuit Magiſtratus Politici:</hi> But with what Authority he ſpeaks, I underſtand not; nor ſhall I there<g ref="char:EOLhyphen"/>upon undertake to diſpute Eccleſiaſtical Ju<g ref="char:EOLhyphen"/>riſdiction, rather hoping that Neceſſity, being our Advocate, will eaſily excuſe the want of that Formality we deſire, ſince we perform the Eſſential part by a Pious Intention. <hi>Peter Martyr</hi> diſtinguiſhing between an Inward Temple, and an Outward, meaning by an Inward, <hi>Man,</hi> by the Outward, <hi>a Place of Wor<g ref="char:EOLhyphen"/>ſhip,</hi> ſays, That we conſecrate a Place, when firſt we apply it to Sacred Uſes; as Man is dedicated to God in Baptiſm: From whom we diſſent not, ſince he further agrees with the Ancient manner, according to the Regiſtry of <hi>Euſebius,</hi> concerning the performance at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem;</hi> where they adorned their firſt Aſſem<g ref="char:EOLhyphen"/>bling in the Church, with Praying, Praiſing, Thankſgiving, and Preaching: Nay a Jeſuit and great Metaphyſician confeſſes, That by ſimple Intention of Will and plain Benedicti<g ref="char:EOLhyphen"/>on,
+<pb n="14" facs="tcp:154238:13"/>an Oratory or Church may be ſeparated from Prophane or Common Uſes. So that though we cannot uſe all cuſtomary Ceremo<g ref="char:EOLhyphen"/>nies, I ſhall not fear the Accuſation of a <hi>Ro<g ref="char:EOLhyphen"/>maniſt</hi> againſt <hi>Aeſchardus,</hi> as if by ſome omiſſi<g ref="char:EOLhyphen"/>on he had rather Prophan'd, than Conſecra<g ref="char:EOLhyphen"/>ted a Church: I ſhall not think my ſelf bound to make any Apology for Adminiſtring the Sacrament in a place no otherwiſe Conſe<g ref="char:EOLhyphen"/>crated, as <hi>Athanaſius</hi> did when accuſed by the <hi>Arians</hi> for ſo doing; If there be any Error in Scituation, or Church-Architecture, (which the great Cardinal ſo much ſtands on) I will not invoke St. <hi>Dunſtan</hi>'s Shoulder to remove any part of it into its proper place: We may diſlodge Satan without Exorciſms, who will flee if we reſiſt him; nor need we any Mira<g ref="char:EOLhyphen"/>cles either to allow or diſapprove of our Free<g ref="char:EOLhyphen"/>will-offering, ſince every Creature of God is ſanctified by the Word and Prayer. This in former times was ſufficient to procure a Reve<g ref="char:EOLhyphen"/>rential behaviour in ſuch Places, not from any inherent Holineſs in them, but that which was and is objectively adherent to them, through Chriſt's promiſes, by united Devo<g ref="char:EOLhyphen"/>tions, and participating of the Sacraments, is a Communion of Saints. And O that we were
+<pb n="15" facs="tcp:154238:13"/>joyntly reſolved to fulfil the Prophecy of the Church, which is in our own power to do; <hi>Many people ſhall ſay, let us go up to the Mountain of the Lord, to the Houſe of the God of</hi> Jacob, <hi>and he will teach us his ways, and we will walk in his paths: For out of</hi> Sion <hi>ſhall the Lord go forth, and the word of the Lord from</hi> Jeruſalem. In his Houſe therefore let us meet him, where he is to be found, with an early and humble Devo<g ref="char:EOLhyphen"/>tion, and when we appear in his Church, let not the neglect of our Duty there, prove greater than Abſence; which brings us to the laſt thing.</p>
+            <p n="3">3. The neceſſity of a ſuitable Reſpect to the Place where God's honour dwelleth, which ſuitableneſs betwixt Honour and Merit is re<g ref="char:EOLhyphen"/>quired by natural Juſtice.</p>
+            <p>This Eaſtern cuſtom of pulling off the ſhoes, would aptly lead us to a view of the ſeveral Reverential behaviours practiced in our own Church, in all which we pay but one Divine one, and that is to God: But I ſhall not at preſent trouble you with Circumſtan<g ref="char:EOLhyphen"/>tials, a word or two of the moſt Eſſential parts of our deportment, ſhall ſet you all at liberty.</p>
+            <p>There is in the firſt place ſuppoſed an aw<g ref="char:EOLhyphen"/>ful
+<pb n="16" facs="tcp:154238:14"/>coming to the Place where Reverence is required; for in the words to <hi>Moſes,</hi> (<hi>draw not nigh hither,</hi> which St. <hi>Stephen</hi> omits) there is no excuſe afforded for our neglect, God thereby only forbidding an impudent Intruſion into the <hi>Sanctum,</hi> an entrance into Miniſterial Offices without Commiſſion; but to his Houſe all are bidden, and the ſlighting of the invitation would be a high contempt: If only the Command of his <hi>Vicegerent</hi> were to be pro<g ref="char:EOLhyphen"/>duced in this affair, ſince <hi>Via Regia,</hi> is <hi>quaſi Sacra,</hi> that contempt is ſo unwarrantable, that I wonder how Abſenters can pretend to Con<g ref="char:EOLhyphen"/>ſcience, which is the ſtrongeſt Sanction of the Law, obliges us to Obedience, and bids us not rob God of the leaſt of his Retinue un<g ref="char:EOLhyphen"/>neceſſarily.</p>
+            <p>Having made our entrance into the Houſe of God, the wiſe man ſays we cannot be too attentive; when God ſpeaks and pronounces our welcom, let no Prejudice or Partiality, no affection for a Party, make <hi>Paul</hi> and <hi>Apollo</hi>'s the heads of Faction, which is in effect the dividing of Chriſt himſelf.</p>
+            <p>Let not his poſitive Laws of Baptiſm, and his Supper, be ſo much ſlighted as they now ſeem to be; but what is moſt of all ſuitable
+<pb n="17" facs="tcp:154238:14"/>to the preſent occaſion, let our firſt Aſſem<g ref="char:EOLhyphen"/>bling together be ſeaſoned with <hi>Praiſes</hi> and <hi>Prayers,</hi> the chief Ingredients requiſite for a true <hi>Conſecration.</hi>
+            </p>
+            <p n="1">1. Under the firſt head, This Noble Structure ſeems to ſpeak the Language of the Son of <hi>Syrack,</hi> and bids us praiſe famous men, whoſe modeſty perhaps would not bear the Truth in the rehearſal of their Liberal Acts; and ſuch a Flattering Orator might well ex<g ref="char:EOLhyphen"/>pect the ſame Fate which attended <hi>Conſtan<g ref="char:EOLhyphen"/>tines, (viz.)</hi> to be ſilenced for too much com<g ref="char:EOLhyphen"/>mending him on the ſame occaſion: How<g ref="char:EOLhyphen"/>ever we are obliged to praiſe God for raiſing ſuch Benefactors, for giving of us Nurſing-Fathers and Defenders or Religion; not only Martyrs and Confeſſors, but ſuch as dare live, and do, as well as ſuffer, for the promotion of the <hi>Goſpel:</hi> That we are not confined to Caves and Dens, which more refined Chri<g ref="char:EOLhyphen"/>ſtianity was contented with: That he hath given us all bleſſings Spiritual and Temporal in his Son, the conformity to whoſe Exam<g ref="char:EOLhyphen"/>ple will be the praiſing of him in the higheſt Key.</p>
+            <p n="2">2. Then let us pray for the continuance of all his Mercies, that our Candleſtick may not
+<pb n="18" facs="tcp:154238:15"/>be removed, that the devices of Foreign and Domeſtick Enemies may be fruſtrated, that all Hereſie, Schiſm, Faction and Rebellion may be reſtrained by the men of Courage, to whom Authority is committed; that we may be as a City compact together, even all who profeſs the Name of Chriſt, the Harmo<g ref="char:EOLhyphen"/>ny of the Goſpel being powerful to unite our hearts and minds ſo, that the Croſs may be ſtill more and more Triumphant, till thou O bleſſed Saviour haſt obtained the Heathen for thine Inheritance, and the utmoſt parts of the Earth for thy Poſſeſſion: To whom with the Father and bleſſed Spirit, be aſcribed (as is moſt due) all Honour and Glory, from this time for evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154238:15"/>
+            <pb facs="tcp:154238:16"/>
+            <pb facs="tcp:154238:16"/>
+            <pb facs="tcp:154238:17"/>
+            <pb facs="tcp:154238:17" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
